@@ -2,16 +2,13 @@
   <!-- Background -->
   <rect width="520" height="90" fill="#0B1F3F" rx="8"/>
 
-  <!-- Left Accent Bar -->
-  <rect x="25" y="20" width="6" height="50" fill="#FFC72C" rx="3"/>
-
   <!-- Main Title -->
-  <text x="45" y="44" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="800" font-size="28" fill="#FFC72C" letter-spacing="0.5">
+  <text x="35" y="44" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="800" font-size="28" fill="#FFC72C" letter-spacing="0.5">
     Empathic Interface
   </text>
 
   <!-- Subtitle -->
-  <text x="46" y="66" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" letter-spacing="3" opacity="0.9">
+  <text x="36" y="66" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" letter-spacing="3" opacity="0.9">
     LABORATORY <tspan fill="#FFC72C">|</tspan> EI LAB
   </text>
 </svg>
