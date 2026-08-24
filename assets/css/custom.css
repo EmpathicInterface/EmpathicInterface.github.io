@@ -121,16 +121,16 @@ body {
     margin: 0;
     padding: 0;
     background: var(--white);
+    overflow: hidden;
 }
 
 .lab-banner-image img {
     display: block;
     width: 100%;
-    height: 180px;
+    height: auto;
     margin: 0;
-    object-fit: cover;
+    object-fit: contain;
 }
-
 
 /* ================================
    About
@@ -760,13 +760,6 @@ body {
     #banner h2:after {
         width: 50px;
         height: 3px;
-    }
-
-
-    /* Lab Banner */
-
-    .lab-banner-image img {
-        height: 120px;
     }
 
 
