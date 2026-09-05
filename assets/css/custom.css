@@ -284,6 +284,10 @@ body {
     vertical-align: middle;
 }
 
+.news-tag.closed {
+    background: #9CA3AF;
+    color: #FFFFFF;
+}
 
 /* ================================
    Common Page Header
